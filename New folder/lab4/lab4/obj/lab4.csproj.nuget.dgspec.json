@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\oop1\\New folder\\lab4\\lab4\\lab4.csproj": {}
+    "D:\\oop1.4\\oop1.4\\New folder\\lab4\\lab4\\lab4.csproj": {}
   },
   "projects": {
-    "D:\\oop1\\New folder\\lab4\\lab4\\lab4.csproj": {
+    "D:\\oop1.4\\oop1.4\\New folder\\lab4\\lab4\\lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\oop1\\New folder\\lab4\\lab4\\lab4.csproj",
+        "projectUniqueName": "D:\\oop1.4\\oop1.4\\New folder\\lab4\\lab4\\lab4.csproj",
         "projectName": "lab4",
-        "projectPath": "D:\\oop1\\New folder\\lab4\\lab4\\lab4.csproj",
+        "projectPath": "D:\\oop1.4\\oop1.4\\New folder\\lab4\\lab4\\lab4.csproj",
         "packagesPath": "C:\\Users\\jutat\\.nuget\\packages\\",
-        "outputPath": "D:\\oop1\\New folder\\lab4\\lab4\\obj\\",
+        "outputPath": "D:\\oop1.4\\oop1.4\\New folder\\lab4\\lab4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
