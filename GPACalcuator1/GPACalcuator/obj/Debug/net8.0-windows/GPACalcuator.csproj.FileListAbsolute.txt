@@ -1,0 +1,16 @@
+D:\oop1.5\GPACalcuator\GPACalcuator\bin\Debug\net8.0-windows\GPACalcuator.exe
+D:\oop1.5\GPACalcuator\GPACalcuator\bin\Debug\net8.0-windows\GPACalcuator.deps.json
+D:\oop1.5\GPACalcuator\GPACalcuator\bin\Debug\net8.0-windows\GPACalcuator.runtimeconfig.json
+D:\oop1.5\GPACalcuator\GPACalcuator\bin\Debug\net8.0-windows\GPACalcuator.dll
+D:\oop1.5\GPACalcuator\GPACalcuator\bin\Debug\net8.0-windows\GPACalcuator.pdb
+D:\oop1.5\GPACalcuator\GPACalcuator\obj\Debug\net8.0-windows\GPACalcuator.Form1.resources
+D:\oop1.5\GPACalcuator\GPACalcuator\obj\Debug\net8.0-windows\GPACalcuator.csproj.GenerateResource.cache
+D:\oop1.5\GPACalcuator\GPACalcuator\obj\Debug\net8.0-windows\GPACalcuator.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop1.5\GPACalcuator\GPACalcuator\obj\Debug\net8.0-windows\GPACalcuator.AssemblyInfoInputs.cache
+D:\oop1.5\GPACalcuator\GPACalcuator\obj\Debug\net8.0-windows\GPACalcuator.AssemblyInfo.cs
+D:\oop1.5\GPACalcuator\GPACalcuator\obj\Debug\net8.0-windows\GPACalcuator.csproj.CoreCompileInputs.cache
+D:\oop1.5\GPACalcuator\GPACalcuator\obj\Debug\net8.0-windows\GPACalcuator.dll
+D:\oop1.5\GPACalcuator\GPACalcuator\obj\Debug\net8.0-windows\refint\GPACalcuator.dll
+D:\oop1.5\GPACalcuator\GPACalcuator\obj\Debug\net8.0-windows\GPACalcuator.pdb
+D:\oop1.5\GPACalcuator\GPACalcuator\obj\Debug\net8.0-windows\GPACalcuator.genruntimeconfig.cache
+D:\oop1.5\GPACalcuator\GPACalcuator\obj\Debug\net8.0-windows\ref\GPACalcuator.dll
